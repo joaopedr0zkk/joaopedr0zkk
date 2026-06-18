@@ -7,7 +7,9 @@
 - 👯 pronome /ele /dele  
 - quero aprender a programar
 - name: Generate Datas
-<ing src = baner web width = ¨325px¨>
+
+<img src = "giphy joao.gif" web width = ¨50px¨>
+
 # seja bem vindo ao meu Github 
 <div align="center">
   <img src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" width="100px" alt="GitHub Readme Stats" />
